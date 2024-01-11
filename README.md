@@ -36,21 +36,21 @@ Welcome to my Grade 9 Creation for the Math Final Performace task! This console-
     ```
 
 ## Usage
-    Run the game by executing the following command:
+Run the game by executing the following command:
 
     ```bash
     python math_game.py
     ```
 
-    Follow the on-screen instructions to play the game. Answer the math problems and the bonus question to earn a score.
+Follow the on-screen instructions to play the game. Answer the math problems and the bonus question to earn a score.
 
 ## Contributing
-    If you'd like to contribute to the project, feel free to submit pull requests or open issues. Contributions are welcome!
+If you'd like to contribute to the project, feel free to submit pull requests or open issues. Contributions are welcome!
 
 ## License
-    This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-    OpenAI for providing the powerful GPT-3.5-turbo model.
-    ASCII Art contributors for the cool ASCII art used in the game.
-    Have fun playing the Math Game! 🎮🧠
+OpenAI for providing the powerful GPT-3.5-turbo model.
+ASCII Art contributors for the cool ASCII art used in the game.
+Have fun playing the Math Game! 🎮🧠
