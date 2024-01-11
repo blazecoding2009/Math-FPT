@@ -38,9 +38,9 @@ Welcome to my Grade 9 Creation for the Math Final Performace task! This console-
 ## Usage
 Run the game by executing the following command:
 
-    ```bash
-    python math_game.py
-    ```
+```bash
+python math_game.py
+```
 
 Follow the on-screen instructions to play the game. Answer the math problems and the bonus question to earn a score.
 
