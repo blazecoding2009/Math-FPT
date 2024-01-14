@@ -75,6 +75,7 @@ def main():
             },
         ],
     )
+
     reply = eval(response.choices[0].message.content)
     math_problems = reply["math_equations"]
     find_the_problem = reply["find_the_problem"]
