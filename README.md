@@ -2,6 +2,10 @@
 
 Welcome to my Grade 9 Creation for the Math Final Performace task! This console-based game challenges players with math problems and a bonus question. The game retrieves math problems from OpenAI's GPT-3.5-turbo model and evaluates the player's responses.
 
+
+https://github.com/blazecoding2009/Math-FPT/assets/56598575/913ba0c1-9223-42da-bda4-186c8bb5a190
+
+
 ## Features
 
 - Diverse math problems suitable for a ninth-grade level.
