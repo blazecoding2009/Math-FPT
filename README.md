@@ -25,7 +25,7 @@ https://github.com/blazecoding2009/Math-FPT/assets/56598575/913ba0c1-9223-42da-b
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/math-game.git
+   git clone https://github.com/blazecoding2009/Math-FPT
    cd math-game
    ```
 2. **Install the required packages:**
